@@ -55,7 +55,7 @@ fields:
   - name: header
     type: text
     config:
-      required: true
+      required: false
     label: Objective Sub Title
   - name: desc
     type: textarea
