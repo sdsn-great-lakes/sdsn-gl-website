@@ -1,0 +1,27 @@
+---
+label: Google Analytics
+hide_body: true
+fields:
+- name: title
+  type: text
+  config:
+    required: true
+  label: Title
+  hidden: true
+  default: Analytics Settings
+- name: toggle
+  type: boolean
+  label: Analytics Toggle
+  default: false
+  description: Turn this on if you want to use Google Analytics
+- name: gaCode
+  type: text
+  config:
+    required: false
+  label: Google Analytics ID
+  description: Your Tracking ID. It should start with the letters UA
+  showOnly:
+    field: toggle
+    value: true
+pages:
+- src/_data/wdefaults/googleAnalytics.json
