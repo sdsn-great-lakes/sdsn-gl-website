@@ -1,0 +1,10 @@
+{
+  "title": "News Landing Page",
+  "toggle": true,
+  "header": "Network News",
+  "subtitle": "<p>The latest news from our network.</p>",
+  "globalHeader": "Global SDSN News",
+  "globalSubtitle": "<p>News from the global network.</p>",
+  "globalCTA": "Read more on the Global SDSN Website",
+  "previousPageText": "Go back to News"
+}

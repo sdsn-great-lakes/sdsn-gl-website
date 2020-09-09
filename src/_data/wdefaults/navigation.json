@@ -1,0 +1,115 @@
+{
+  "items": [
+    {
+      "megaMenu": true,
+      "text": "ABOUT US",
+      "menuItems": [
+        {
+          "text": "About SDSN",
+          "url": "/about/sdsn",
+          "external": false
+        },
+        {
+          "text": "About the Team",
+          "url": "/about/team",
+          "external": false
+        }
+      ],
+      "url": "",
+      "external": false,
+      "megamenu": false,
+      "menuitems": [
+
+      ]
+    },
+    {
+      "megaMenu": true,
+      "text": "WHAT WE DO",
+      "menuItems": [
+        {
+          "text": "News and Activities",
+          "url": "/news",
+          "external": false
+        },
+        {
+          "text": "Our Network and Members",
+          "url": "/what-we-do",
+          "external": false
+        },
+        {
+          "text": "Youth-led Action",
+          "url": "/youth",
+          "external": false
+        }
+      ],
+      "url": "",
+      "external": false,
+      "megamenu": true,
+      "menuitems": [
+
+      ]
+    },
+    {
+      "megaMenu": true,
+      "text": "THE SDGs",
+      "menuItems": [
+        {
+          "text": "The SDGs in Antarctica",
+          "url": "/antarctica",
+          "external": false
+        },
+        {
+          "text": "SDG Resources",
+          "url": "/resources",
+          "external": false
+        }
+      ],
+      "url": "",
+      "external": false,
+      "megamenu": false,
+      "menuitems": [
+
+      ]
+    },
+    {
+      "megaMenu": true,
+      "text": "GET INVOLVED",
+      "menuItems": [
+        {
+          "text": "Join the network",
+          "url": "/join",
+          "external": false
+        },
+        {
+          "text": "Events",
+          "url": "/events",
+          "external": false
+        },
+        {
+          "text": "Contact us",
+          "url": "/contact-us",
+          "external": false
+        }
+      ],
+      "url": "",
+      "external": false,
+      "megamenu": false,
+      "menuitems": [
+
+      ]
+    },
+    {
+      "megaMenu": false,
+      "text": "SEARCH",
+      "url": "/search",
+      "external": false,
+      "menuItems": [
+
+      ],
+      "megamenu": false,
+      "menuitems": [
+
+      ]
+    }
+  ]
+}
