@@ -1,9 +1,9 @@
 {% extends 'layouts/base.njk' %}
 
 {% block content %}
-{% if pages.what.newsPage.toggle == true %}
 <title>{{ pages.what.newsPage.header }}</title>
 <main id="main-content" tabindex="-1">
+{% if pages.what.newsPage.networkNewsToggle == true %}
 <div class="home-container">
   <section class="intro-banner" {% if bgText %} style="color:{{ bgText }}"{% endif %}>
     {% if pages.what.newsPage %}
@@ -18,6 +18,8 @@
         {% include "partials/components/news-list.njk" %}
     </div>
   </section>
+{% endif %}
+{% if pages.what.newsPage.globalNewsToggle == true %}
     <section class="intro-banner" {% if bgText %} style="color:{{ bgText }}"{% endif %}>
     {% if information.networkDetails %}
         {% set introHeader = pages.what.newsPage.globalHeader | safe %}
@@ -37,6 +39,6 @@
     </div>
   </section>
 </div>
-</main>
 {% endif %}
+</main>
 {% endblock %}

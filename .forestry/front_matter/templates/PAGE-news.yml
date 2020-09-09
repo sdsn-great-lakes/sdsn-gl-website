@@ -9,17 +9,20 @@ fields:
   label: Page Title
   default: News Landing Page
   hidden: true
-- name: toggle
+- name: networkNewsToggle
   type: boolean
-  label: Page Toggle
+  label: Network News Toggle
   default: true
-  description: Turn this page on or off
+  description: Turn networks news on or off
 - name: header
   type: text
   config:
     required: true
   label: Page Header
   default: News
+  showOnly:
+    field: networkNewsToggle
+    value: true
 - name: subtitle
   type: textarea
   default: ''
@@ -29,12 +32,23 @@ fields:
     schema:
       format: html-blocks
   label: Banner Sub Title
+  showOnly:
+    field: networkNewsToggle
+    value: true
+- name: globalNewsToggle
+  type: boolean
+  label: Global Network News Toggle
+  default: true
+  description: Turn Global SDSN news on or off
 - name: globalHeader
   type: text
   config:
     required: true
   label: Global News Header
   default: SDSN Global News
+  showOnly:
+    field: globalNewsToggle
+    value: true
 - name: globalSubtitle
   type: textarea
   default: ''
@@ -44,6 +58,9 @@ fields:
     schema:
       format: html-blocks
   label: Global News Sub Title
+  showOnly:
+    field: globalNewsToggle
+    value: true
 - name: globalCTA
   type: text
   config:
@@ -56,5 +73,8 @@ fields:
     required: true
   label: Previous page button text
   default: Go to back to News
+  showOnly:
+    field: globalNewsToggle
+    value: true
 pages:
 - src/_data/pages/what/newsPage.json
