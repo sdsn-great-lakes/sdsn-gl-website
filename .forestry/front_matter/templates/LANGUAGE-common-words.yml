@@ -91,5 +91,12 @@ fields:
   label: Search Tag Text
   hidden: false
   default: Search via tags
+- name: noContent
+  type: text
+  config:
+    required: false
+  label: We're still working on our content
+  hidden: false
+  default: We're working on exciting stuff. Come back another day!
 pages:
 - src/_data/wdefaults/commonWords.json
