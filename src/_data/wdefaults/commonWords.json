@@ -10,5 +10,6 @@
   "homepage": "HOMEPAGE",
   "nextPage": "Next",
   "previousPage": "Previous",
-  "tagSubtitle": "Search via tags"
+  "tagSubtitle": "Search via tags",
+  "noContent": "We're working on exciting stuff. Come back another day!"
 }
