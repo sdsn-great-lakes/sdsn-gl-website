@@ -3,24 +3,50 @@
   "whitelogo": "/uploads/sdsn-example-logo-white.png",
   "favicon": "/uploads/android-chrome-512x512.png",
   "networkName": "Great Lakes",
-  "networkDesc": "<p>SDSN Great Lakes is a community of universities, research centers, and other knowledge institutions to translate the latest expertise in sustainable development into action.</p>",
-  "networkVision": "Mobilizing SDG implementation through solution initiatives and long-term pathways in Antarctica.",
-  "networkVisionSubtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus venenatis mattis dolor, eu dapibus nisi lacinia eu. Fusce id mauris rhoncus, fermentum justo vitae, tempor arcu.",
+  "networkDesc": "<p>SDSN Great Lakes strives to promote the implementation of the SDGs in the region of Central and Eastern Africa. Through its activities, it takes the lead in mobilizing universities, research centers, and civil society in the region to take action and get involved.</p>",
+  "networkVision": "Mobilizing SDG implementation through solutions and pathways in the region of Central and Eastern Africa.",
+  "networkVisionSubtitle": "",
   "networkObjectives": [
     {
-      "header": "Localize the SDGs to Antarctica 1",
-      "desc": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus venenatis mattis dolor, eu dapibus nisi lacinia eu. Fusce id mauris rhoncus, fermentum justo vitae, tempor arcu.</p>",
+      "header": "Continuously identify opportunities for broadening the network",
+      "desc": "",
+      "link": ""
+    },
+    {
+      "header": "To organize annual regional sustainable development meetings",
+      "desc": "<p><em>bringing together key actors from the region to identify and promote regional solutions initiatives.</em></p>",
+      "link": ""
+    },
+    {
+      "header": "To promote regional solutions initiatives",
+      "desc": "",
+      "link": ""
+    },
+    {
+      "header": "To mobilize scientific and technological expertise",
+      "desc": "<p>in order to solve problems and create a more sustainable society in Central and Eastern Africa.</p>",
       "link": ""
     }
   ],
   "impactSection": true,
-  "networkImpact": "<p>Impact in the SDSN Great Lakes Network</p>",
+  "networkImpact": "<p>SDSN Great Lakes since its launch in 2014, has been organizing and holding annual conferences and calling for homegrown solutions to address local development challenges. </p><p>Our initiatives engage researchers, academics, and youth to present innovative and practical projects that can help change the lives of people in the region for the better.</p>",
   "networkMetrics": [
-
+    {
+      "header": "6 years",
+      "desc": "<p>Established since 2014</p>"
+    },
+    {
+      "header": "5",
+      "desc": "<p>Covering 5 countries.</p>"
+    },
+    {
+      "header": "26",
+      "desc": "<p>Member Institutions.</p>"
+    }
   ],
   "networkEmail": "greatlakes@unsdsn.org",
-  "websiteTitle": "SDSN Antarctica",
-  "websiteURL": "https://sdsn-rn-network.netlify.app/",
-  "membersList": "<iframe class=\"airtable-embed\" src=\"https://airtable.com/embed/shr69E7ELoC9HAx5U?backgroundColor=blue&viewControls=on\" frameborder=\"0\" onmousewheel=\"\" width=\"100%\" height=\"533\" style=\"background: transparent; border: 1px solid #ccc;\"></iframe>",
+  "websiteTitle": "SDSN Great Lakes",
+  "websiteURL": "http://sdsn-great-lakes.netlify.app/",
+  "membersList": "<iframe class=\"airtable-embed\" src=\"https://airtable.com/embed/shroh18Zsw1FG3JM8?backgroundColor=blue&viewControls=on\" frameborder=\"0\" onmousewheel=\"\" width=\"100%\" height=\"533\" style=\"background: transparent; border: 1px solid #ccc;\"></iframe>",
   "title": "Network Details"
 }
