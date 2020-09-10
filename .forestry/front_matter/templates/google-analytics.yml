@@ -23,5 +23,3 @@ fields:
   showOnly:
     field: toggle
     value: true
-pages:
-- src/_data/wdefaults/googleAnalytics.json
