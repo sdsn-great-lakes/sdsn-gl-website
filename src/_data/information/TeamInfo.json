@@ -1,74 +1,39 @@
 {
-  "teamDesc": "<p>Our team works together to coordinate the network activities, engage with our members, and collaborate with other stakeholders within the country.</p>",
+  "teamDesc": "<p>The SDSN Great Lakes Team is managed by a volunteering full-time staff manager.</p><p>Our team works together to coordinate the network activities, engage with our members, and collaborate with other stakeholders within the country.</p>",
   "leadershipCouncil": true,
   "networkManagers": true,
   "youthCoordinators": true,
   "lcTitle": "Leadership Council",
   "nmTitle": "Network Managers",
   "youthTitle": "The Youth Team",
-  "lcDesc": "<p>The Network is guided by a Leadership Council - made up of global sustainable development leaders from all regions and all sectors, including civil society, public, and private sectors.</p>",
-  "nmDesc": "Network Managers coordinate the network, working with Member Institutions to identify potential collaboration within the network.",
-  "youthDesc": "The Youth Team mobilizes young people locally to create sustainable solutions.",
+  "lcDesc": "<p>The Network is guided by a Leadership Council - made up of individuals from a variety of backgrounds including representatives from the Government, Universities, and Private Sector.</p>",
+  "nmDesc": "<p>The SDSN is managed by a Network Manager who is a full-time staff at the University of Rwanda. The Manager volunteers to Manage the Network as Additional Responsibilities to his normal workload.</p>",
+  "youthDesc": "<p>SDSN Great Lakes has integrated the young populations in universities to contribute to the global movement of finding solutions for sustainable development challenges. </p><p>The Youth Coordinator works with campus ambassadors to educate and engage students base in our Member Institutions.</p>",
   "lcProfiles": [
     {
-      "name": "The Fifth Member",
-      "networkPosition": "Council Member",
-      "position": "",
-      "photo": "",
-      "email": ""
-    },
-    {
-      "name": "Sally by the Seashore",
-      "networkPosition": "Council Member",
-      "position": "",
-      "photo": "/uploads/men-s-wearing-black-suit-jacket-and-pants-937481.jpg",
-      "email": ""
-    },
-    {
-      "name": "Bob The Builder",
-      "networkPosition": "Council Advisor",
-      "position": "",
-      "photo": "/uploads/man-in-red-jacket-1681010.jpg",
-      "email": ""
-    },
-    {
-      "name": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-      "networkPosition": "Council Advisor",
-      "position": "CEO, AOIF",
-      "photo": "/uploads/man-wearing-black-zip-up-jacket-near-beach-smiling-at-the-736716.jpg",
-      "email": ""
-    },
-    {
-      "name": "Shiloh Name",
+      "name": "Faustin Gasheja",
       "networkPosition": "Network Chair",
       "position": "",
-      "photo": "/uploads/photo-of-woman-wearing-yellow-floral-top-871495.jpg",
+      "photo": "/uploads/faustin-gasheja.jpg",
       "email": ""
     }
   ],
   "nmProfiles": [
     {
-      "name": "John Name",
+      "name": "Salomon Nshimiyimana",
       "networkPosition": "Network Manager",
-      "position": "",
-      "photo": "/uploads/men-s-wearing-black-suit-jacket-and-pants-937481.jpg",
-      "email": ""
-    },
-    {
-      "name": "Marie Name",
-      "networkPosition": "Network Manager",
-      "position": "",
-      "photo": "/uploads/photo-of-woman-wearing-head-scarf-2951093.jpg",
-      "email": ""
+      "position": "University of Rwanda",
+      "photo": "/uploads/salomon-nshimiyimana.jpg",
+      "email": "greatlakes@unsdsn.org"
     }
   ],
   "youthProfiles": [
     {
-      "name": "Lee Name",
+      "name": "Ninette Nsabimana",
       "networkPosition": "Youth Network Coordinator",
-      "position": "",
-      "photo": "/uploads/man-in-red-jacket-1681010.jpg",
-      "email": "antarctica@sdsnyouth.org"
+      "position": "University of Rwanda",
+      "photo": "/uploads/ninette-nsabimana.jpeg",
+      "email": "great.lakes@sdsnyouth.org"
     }
   ],
   "defaultPhoto": "/images/person.png",
