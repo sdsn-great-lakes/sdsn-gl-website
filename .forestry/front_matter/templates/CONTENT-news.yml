@@ -86,3 +86,5 @@ fields:
     labelField: 
   label: Embedded content
   description: 'Add any embedded content here. '
+pages:
+- src/content/news/sdsn-great-lakes-holds-first-conference-on-preparing-for-the-sdgs.md
