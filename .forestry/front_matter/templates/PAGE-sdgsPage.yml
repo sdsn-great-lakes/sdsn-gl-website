@@ -73,10 +73,12 @@ fields:
     label: Initiative Owner
     description: For example, local government
   - name: featureSubtitle
-    type: text
-    default: ''
+    type: textarea
     config:
       required: false
+      wysiwyg: true
+      schema:
+        format: html-blocks
     label: Initiative Description
     description: Write a short description about this initiative
   - name: featureCta
