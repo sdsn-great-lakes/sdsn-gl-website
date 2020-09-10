@@ -2,7 +2,7 @@
   "title": "Page: Network Activities Members",
   "toggle": true,
   "header": "What we do",
-  "memberDesc": "<p>The SDSN and Members work closely with businesses and governments, particularly around the development and scaling up of new solutions. Businesses can become SDSN Business Partners in recognition of their contributions to the work of SDSN.</p>",
+  "memberDesc": "<p>The SDSN and Members work closely with businesses and governments, particularly around the development and scaling up of new solutions. </p><p>The SDSN Great Lakes regularly communicates to its members through emails and its annual bulletin. We also organize annual conferences on SDGs and calls for local solutions to address local problems affecting the communities.</p>",
   "highlightProjectsHeader": "Highlight projects",
   "highlightProjectsSubtitle": "Read more about our current work.",
   "memberTitle": "Our Members",
@@ -13,9 +13,24 @@
   "featuredMembers": true,
   "tImages": [
     {
-      "tTitle": "example",
-      "tLink": "",
-      "tImg": "/uploads/44820-200.png"
+      "tTitle": "University of Lay Adventists of Kigali",
+      "tLink": "https://www.unilak.ac.rw",
+      "tImg": "/uploads/university-of-lay-adventists-of-kigali.png"
+    },
+    {
+      "tTitle": "Kepler Kigali",
+      "tLink": "https://www.kepler.org/",
+      "tImg": "/uploads/kepler-kigali.svg"
+    },
+    {
+      "tTitle": "University of Rwanda",
+      "tLink": "https://cbe.ur.ac.rw/",
+      "tImg": "/uploads/logo-ur.png"
+    },
+    {
+      "tTitle": "University of Kigali",
+      "tLink": "https://uok.ac.rw/",
+      "tImg": "/uploads/uok-logo-copy.png"
     }
   ]
 }
