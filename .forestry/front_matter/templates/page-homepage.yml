@@ -95,5 +95,11 @@ fields:
   showOnly:
     field: showBenefits
     value: true
+- name: homeCtaText
+  type: text
+  config:
+    required: false
+  label: Call to action text
+  default: Get in touch
 pages:
 - src/_data/pages/homepage.json
