@@ -1,32 +1,41 @@
 ---
 pageTitle: Resource News Stories Pages
-date: 2020-07-21T01:00:00.000+00:00
-author: Lauren Barredo
+date: 2017-07-18T02:00:00+00:00
+author: SDSN Great Lakes
 tags:
-- United Nations
-- Universities
-- Tag1
-- Tag1
-- Tag2
-- Really long tag tag tag
-title: University Support to Decade of Action
-desc: We are at a critical juncture, where new thinking is needed more than ever;
-  there is an important role for universities to play.
+- Kenya
+- Solutions
+- Conference
+- Rwanda
+title: Local Solutions in the African Great Lakes
+desc: "<p>SDSN Great Lakes held a conference in Kigali, Rwanda, on “Local Solutions
+  to Achieve the SDGs”.</p>"
 ctaTitle: 'A full summary of the meeting is available online. '
 ctaURL: https://irp-cdn.multiscreensite.com/6f2c9f57/files/uploaded/200716%20Summary%20University%20Sector%20Support%20to%20SDGs.pdf
-fImage: "/uploads/rainforest-during-foggy-day-975771.jpg"
+fImage: "/uploads/sdgs-kenya-forum.jpg"
 featuredToggle: false
-aboutAuthor: "<p>This is written by the SDSN Secretariat.</p>"
-embeddedContent:
-- embedlink: <iframe width="560" height="315" src="https://www.youtube.com/embed/2JSRLGzCYO0"
-    frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
-    allowfullscreen></iframe>
+aboutAuthor: "<p></p>"
+embeddedContent: []
 
 ---
-On July 9 and 10, over 100 universities from about 65 countries gathered to explore how academia as a sector can support the Decade of Action on the SDGs, particularly in the new era of COVID-19. This is part of the core mission of the Sustainable Development Solutions Network (SDSN), launched in 2012 to bring universities together in support of the SDGs. The pandemic is making it harder to achieve the SDGs globally, but universities have always been leaders in problem solving and addressing the world’s greatest challenges, and can help countries ‘build back better.’
+On July 12, 2017, SDSN Great Lakes held a conference in Kigali, Rwanda, on “Local Solutions to Achieve the SDGs” in partnership with the [University of Rwanda College of Business and Economics](http://www.cbe.ur.ac.rw/). The network Chair, Françoise Kayitare Tengera, opened the day by welcoming the network members who traveled from Burundi, Congo, Kenya, and Uganda. Dr. Belay Begashaw, Director General of the [SDG Center for Africa](http://www.sdgcafrica.org/), gave the keynote address in which he emphasized the importance of quality education and the commitments from all the universities represented from the region. He also presented the work of the Center on improving the quality of tertiary education across the continent.
 
-In his remarks, UN Secretary-General Antonio Guterres noted that we are at a critical juncture, where new thinking is needed more than ever; there is an important role for universities to play, and he is grateful for their continued support to the SDGs. He also said that global networks of universities can support multilateralism, which is needed now more than ever ([link to video](https://youtu.be/5d0b31x0bRc "Link: https://youtu.be/5d0b31x0bRc")).
+Dr. Marie-Christine Gasingirwa, Director General Science and Technology, represented the Rwandan Minister of Education and lauded the participants’ engagement and the focus on local and innovative solutions to achieve the SDGs. She said that higher institutions of learning should be actively engaged in identifying problems affecting communities and, through research, finding evidence-based solutions to address them. “The university network’s role should be to research and identify common challenges and help find innovative solutions in a timely manner so as to speed up the implementation of SDGs,” she said, observing that such a development will enable evidence-based policy formulation and implementation strategy.
 
-Deputy Secretary-General Amina Mohammed said that the SDSN has made a valuable contribution towards raising awareness of and promoting the SDGs, and called for accelerated action to achieve them. She also noted that crises can present opportunities, and the pandemic gives us a chance to address pre-existing inequalities through evidence-based policy. She also called on universities to support 3 key levers for change, (i) improving policy makers’ knowledge, (ii) leapfrogging old technology and innovations, and (iii) building public trust and social cohesion ([link to video](https://youtu.be/2JSRLGzCYO0 "Link: https://youtu.be/2JSRLGzCYO0")).
+![](/uploads/kegali-convention-village.jpg)
 
-Over the course of the two-day event, participants discussed how Universities can respond to the COVID-19 crisis and fulfill their missions to teach, leveraging new technologies for online education and helping bridge the digital divide to ensure all students have access; ensuring that research work supports the immediate response to the health crisis and a long-term green recovery; and putting the SDGs into practice in their own communities and on their own campuses.
+_The new Kigali Convention Village_
+
+Following the official African launch at the SDG Center the previous day, Guido Schmidt-Traub, Executive Director of SDSN, presented the findings of the [2017 SDG Index and Dashboards Report](http://www.sdgindex.org/ "Link: http://www.sdgindex.org") with a particular focus on a regional perspective and the role of academia. Discussants from the African Center of Excellence for Data Science and the National Institute of Statistics reflected on the issues of data availability and quality, as well as the importance of capacity building and making data accessible even to illiterate people. Ignace Kabano, head of training at the new African Centre of Excellence in Data Science said the Center’s “mission is to train all prominent African Statisticians to close the gaps in data collection and interpretation.”
+
+The afternoon was devoted to innovative sustainable development projects and proposals. Representatives from eight SDSN member institutions and partners gave “lightning presentations” – very short dynamic presentations highlighting the essence of each project. Then each presenter stood in a different area of the room and interacted directly with conference participants to answer questions, receive feedback, and even discuss potential collaborations. The topics were wide-ranging – from small-scale farming interventions at the household level, to executive training programs on sustainable development. This conference sets the tone that local solutions at all levels are a vital part of the pathways to achieve the SDGs and that universities must play an important role.
+
+  
+![](/uploads/sdgs-kenya-forum.jpg)
+
+_Participants in dialogue with the presenter from the SDGs Kenya Forum._
+
+The regional conference brought together 150 participants from academia, civil society, international organizations, and government. The SDSN Great Lakes is hosted by the University of Rwanda and includes members from Burundi, the Democratic Republic of Congo, the Republic of Congo, Kenya, Rwanda, Tanzania, and Uganda. SDSN GL brings together a diversity of stakeholders to promote the SDGs and implement innovative solutions for sustainable development in the region.
+
+  
+![](/uploads/rwanda-conference-banner-1.png)

@@ -1,33 +1,29 @@
 {
   "header": "Join the network",
   "toggle": true,
-  "subtitle": "<p>Applying for SDSN membership is simple and free! Just complete the online membership application form (available in English, French, Portuguese, Russian, and Spanish) and submit. Our Executive Committee reviews applications on a quarterly basis.</p>",
+  "subtitle": "<p>By becoming a member of the SDSN Great Lakes you will join a unique network of problem solvers and contribute to practical solutions for sustainable development and the 2030 Agenda. This is an opportunity to take part in solving development challenges affecting Central and East Africa.</p><p>SDSN Great Lakes focuses on the following goals: Quality Education, Clean Water, and Sanitation, Decent Work and Economic Growth, Sustainable Cities and Communities, and Climate Action. Our network organizes workshops and training on the implementation of SDGs in higher learning institutions. Through calls for applications for submitting innovative sustainable solutions around the focused goals, we collaborate with the private sector and academics in implementation.</p>",
   "ourImpactHeader": "Benefits of becoming a member",
-  "ourImpactSubTitle": "<p><b>Accelerating practical problem solving for sustainable development.</b></p><p>Our mission is to accelerate practical problem solving for sustainable development, including the implementation of the Sustainable Development Goals (SDGs) at local, national, and global scales.</p>",
+  "ourImpactSubTitle": "<p><strong>Accelerating practical problem solving for sustainable development.</strong></p><p>Our mission is to accelerate practical problem solving for sustainable development, including the implementation of the Sustainable Development Goals (SDGs) at local, national, and global scales.</p><p>Amplify your research and work through a global network of problem-solvers.</p>",
   "memberBenefits": [
     {
-      "header": "Engage with the media",
-      "desc": "<p>The SDSN and its members are regularly approached by media outlets to provide contributions and viewpoints on sustainable development. We work with SDSN members to showcase their work.</p>"
+      "header": "Work with us to localize the SDGs in Central and East Africa.",
+      "desc": "<p>Join a team that is local and truly understands the challenges within our communities.</p>"
+    },
+    {
+      "header": "Join a global network",
+      "desc": "<p>Participate in National and Regional SDSNs around the world, through conferences and workshops.</p>"
+    },
+    {
+      "header": "Access to publications and webinars",
+      "desc": "<p>Our research provides critical contributions to climate change research around the world.</p>"
     },
     {
       "header": "Share teaching solutions for sustainable development",
       "desc": "<p>SDSN seeks to identify best practices, key actors, and to promote the difusion of good practices. To this end, we will launch a survey on teaching initiatives on sustainable development that are undertaken or planned by SDSN members. The results of the survey will be disseminated to all SDSN members.</p>"
     },
     {
-      "header": " Design and share online educational materials and courses",
-      "desc": "<p>All SDSN members are invited to use the online resources developed by the SDSN and its members. Members of the SDSN Academic Advisory Committee will also help shape the network’s strategy for online education, with a view towards eventually creating an online university for sustainable development.</p>"
-    },
-    {
-      "header": "Pursue joint fundraising",
-      "desc": "<p>SDSN members are better positioned to mobilize resources locally and internationally through SDSN brand recognition and additional networking opportunities. The SDSN team will support member organizations in mobilizing resources for Solutions Initiatives, National or Regional SDSNs, and other eforts done under the SDSN banner.</p>"
-    },
-    {
       "header": "Get involved in SDSN Solutions Initiatives",
-      "desc": "<p>SDSN members are invited to participate hands-on in the implementation of SDSN Solutions Initiatives. Many initiatives are already under way; others will be launched in the near future.</p>"
-    },
-    {
-      "header": "Participate in National and Regional SDSNs",
-      "desc": "<p>SDSN members can participate in one or more of the National or Regional SDSNs depending on their interests and areas of activity. Active participation in these networks will enable SDSN members to propose and participate in the implementation of Solutions Initiatives, education and training eforts (including access to online education material), joint research, and policy work with governments.</p>"
+      "desc": "<p>Get involved with Sustainable solutions initiatives through calls for submitting innovative solutions.</p>"
     }
   ],
   "joinHeader": "Member Requirements",
@@ -35,6 +31,6 @@
   "joinCta": "Join our network",
   "joinCtaURL": "https://www.unsdsn.org/join-the-sdsn",
   "contactHeader": "Want to learn more?",
-  "contactCta": "Get in touch at antarc@unsdsn.org",
+  "contactCta": "Get in touch at greatlakes@unsdsn.org",
   "title": "Join the network page"
 }
