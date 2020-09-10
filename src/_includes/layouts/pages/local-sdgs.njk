@@ -29,7 +29,7 @@
         {% for ft in pages.sdgs.sdgsPage.featuredActions %}
             {% set pretext = ft.pretextFeature | safe %}
             {% set header = ft.featureHeader | safe %}
-            {% set actionContent = ft.featureSubtitle %}
+            {% set actionContent = ft.featureSubtitle | safe %}
             {% set oneTwoCta = ft.featureCta %}
             {% set ctaLink = ft.featureCtaURL %}
             {% set ctaColour = bgText %}
