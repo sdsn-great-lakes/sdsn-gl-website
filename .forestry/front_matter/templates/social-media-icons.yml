@@ -24,6 +24,11 @@ fields:
   config:
     maxSize: 1
   label: Facebook
+- name: Twitter
+  type: file
+  config:
+    maxSize: 1
+  label: Twitter
 - name: WeChat
   type: file
   config:
