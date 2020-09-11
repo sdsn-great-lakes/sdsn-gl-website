@@ -62,7 +62,7 @@ fields:
   - name: pretextFeature
     type: text
     config:
-      required: true
+      required: false
     label: Action by..
     default: ACTION BY
   - name: featureHeader
@@ -88,12 +88,26 @@ fields:
       required: false
     label: Call to action
     description: What can people do with this information?
+  - name: uploadToggle
+    type: boolean
+    label: Upload OR Link
+    description: Toggle to send website viewers to another link or download your file
+  - name: resourceFile
+    type: file
+    config:
+      maxSize: 40
+    label: Upload File
+    showOnly:
+      field: uploadToggle
+      value: true
   - name: featureCtaURL
     type: text
     config:
       required: false
-    label: Relevant link for objective (optional)
-    descrtipion: Where can people learn about this? Please link a URL
+    label: URL to resource
+    showOnly:
+      field: uploadToggle
+    descrtipion: Where can people learn about this? Please link a URL starting with https://
   - name: featureImg
     type: file
     config:
