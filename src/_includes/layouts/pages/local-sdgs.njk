@@ -31,11 +31,15 @@
             {% set header = ft.featureHeader | safe %}
             {% set actionContent = ft.featureSubtitle | safe %}
             {% set oneTwoCta = ft.featureCta %}
+            {% if ft.uploadToggle == true %}
+            {% set ctaLink = "/assets" ~ft.resourceFile %}
+            {% else %}
             {% set ctaLink = ft.featureCtaURL %}
+            {% endif %}
             {% set ctaColour = bgText %}
             {% set logoImg = ft.featureImg %}
             {% include "partials/components/one-image-two-text.njk" %}
-        {% endfor %}
+            {% endfor %}
     </section>
 </div>
 </main>
