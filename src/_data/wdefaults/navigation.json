@@ -16,11 +16,7 @@
         }
       ],
       "url": "",
-      "external": false,
-      "megamenu": false,
-      "menuitems": [
-
-      ]
+      "external": false
     },
     {
       "megaMenu": true,
@@ -43,11 +39,7 @@
         }
       ],
       "url": "",
-      "external": false,
-      "megamenu": true,
-      "menuitems": [
-
-      ]
+      "external": false
     },
     {
       "megaMenu": true,
@@ -66,10 +58,7 @@
       ],
       "url": "",
       "external": false,
-      "megamenu": false,
-      "menuitems": [
-
-      ]
+      "megamenu": false
     },
     {
       "megaMenu": true,
@@ -92,11 +81,7 @@
         }
       ],
       "url": "",
-      "external": false,
-      "megamenu": false,
-      "menuitems": [
-
-      ]
+      "external": false
     },
     {
       "megaMenu": false,
@@ -104,10 +89,6 @@
       "url": "/search",
       "external": false,
       "menuItems": [
-
-      ],
-      "megamenu": false,
-      "menuitems": [
 
       ]
     }
