@@ -5,9 +5,13 @@
             <h2 class="close-header">{{ header }}</h2>
         </div>
         <div class="one-image-image">
-        {% if (host.hiLogo | length !== 0) or (logoImg | length !== 0) %}
+        {% if host.hiLogo | length !== 0 %}
             <div class="white-bg-logo">
                 <img src="/assets{{ host.hiLogo }}" class="nav-logo"></img>
+            </div>
+        {% elif logoImg | length !== 0 %}
+            <div class="white-bg-logo">
+                <img src="/assets{{ logoImg }}" class="nav-logo"></img>
             </div>
         {% endif %}
         </div>
