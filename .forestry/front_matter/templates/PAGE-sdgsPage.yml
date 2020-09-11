@@ -107,7 +107,8 @@ fields:
     label: URL to resource
     showOnly:
       field: uploadToggle
-    descrtipion: Where can people learn about this? Please link a URL starting with https://
+    descrtipion: Where can people learn about this? Please link a URL starting with
+      https://
   - name: featureImg
     type: file
     config:

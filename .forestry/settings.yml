@@ -80,6 +80,10 @@ sections:
 - type: document
   path: src/_data/wdefaults/socialMediaIcons.json
   label: Edit Social Media Icons
+- type: document
+  path: src/_data/wdefaults/googleAnalytics.json
+  label: Google Analytics
+  match: "**/*"
 upload_dir: src/assets/uploads
 public_path: "/uploads"
 front_matter_path: ''
