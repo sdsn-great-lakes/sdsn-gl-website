@@ -15,7 +15,7 @@ fields:
     type: text
     config:
       required: false
-    label: SDG Title
+    label: Image Title
   - name: tLink
     type: text
     config:
