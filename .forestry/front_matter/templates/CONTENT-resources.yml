@@ -131,8 +131,4 @@ fields:
   description: Put some tags to make finding content easier for your website visitors!
     E.g. Antarctica, Youth, Climate change, etc. Press enter after each tag.
 pages:
-- src/content/resources/Example-resource-no-img.md
-- src/content/resources/Example-resource-no-links.md
-- src/content/resources/Example-resource.md
 - src/content/resources/SDR2020.md
-- src/content/resources/report-on-sdgs-and-the-south-pole.md

@@ -9,7 +9,7 @@ tags:
 - Tag1
 - Tag2
 - Really long tag tag tag
-title: University Support to Decade of Action
+title: Example University Support to Decade of Action
 desc: We are at a critical juncture, where new thinking is needed more than ever;
   there is an important role for universities to play.
 ctaTitle: 'A full summary of the meeting is available online. '

@@ -5,7 +5,7 @@ author: Network Secretariat
 tags:
 - Launch
 ctaTitle: Register
-title: Webinar on COVID-19 and SDSN
+title: Example Webinar on COVID-19 and SDSN
 fImage: "/uploads/rainforest-during-foggy-day-975771.jpg"
 featuredToggle: true
 desc: "<p>Hello excerpt</p>"
