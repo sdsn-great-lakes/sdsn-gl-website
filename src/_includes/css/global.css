@@ -912,6 +912,14 @@ a.text-button {
     grid-template-columns: repeat(2, 1fr)!important;
 }
 
+.feature-card-cont-none {
+    padding-top: 2em;
+    height: auto;
+    display: grid;
+    grid-gap: 1rem;
+    grid-template-columns: none!important;
+}
+
 .feature-card.big {
     display: inline-flex;
     flex-direction: column;

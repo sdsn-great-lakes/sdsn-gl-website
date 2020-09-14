@@ -1,4 +1,11 @@
+{% set length = item.length %} 
+{% if length == 2 %}
+<div class="content-container feature-card-cont-two">
+{% elif length < 2 %}
+<div class="content-container feature-card-cont-none">
+{% else %}
 <div class="content-container feature-card-cont">
+{% endif %}
     {% for obj in item %}
     <div class="feature-card big" {% if fcolor1 %} style="background-color:{{ fcolor1 }};color:{{ fcolor1Text }}"{% endif %}>
         {# <div class="feature-card title">
