@@ -1,6 +1,6 @@
 ---
 pageTitle: News Stories Pages
-date: 2015-07-19T03:29:36+00:00
+postDate: 2015-07-19T03:29:36+00:00
 author: SDSN Great Lakes
 tags:
 - Conference

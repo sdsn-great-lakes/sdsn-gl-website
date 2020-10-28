@@ -1,6 +1,6 @@
 ---
 pageTitle: News Stories Pages
-date: 2020-09-10T03:33:25+00:00
+postDate: 2020-09-10T03:33:25+00:00
 author: Network Secretariat
 tags:
 - Regional

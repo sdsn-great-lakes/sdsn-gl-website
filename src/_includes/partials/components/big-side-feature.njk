@@ -8,8 +8,10 @@
             </div>
         </div>
         <div class="split-boxes-50-50-focus-left right feature">
+        {% if featureContent | length !== 0 %}
             <div class="embed-container map">
                 {{ featureContent | safe }}
             </div>
+        {% endif %}
         </div>
 </div>

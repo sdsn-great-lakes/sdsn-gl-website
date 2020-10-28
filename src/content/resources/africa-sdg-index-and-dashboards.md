@@ -1,6 +1,6 @@
 ---
 pageTitle: Resource
-date: 2020-09-10T03:54:35+00:00
+postDate: 2020-09-10T03:54:35+00:00
 author: SDSN and The SDG Center for Africa
 resourcesToggle: false
 tags:
