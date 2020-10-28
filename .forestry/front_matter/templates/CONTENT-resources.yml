@@ -9,7 +9,7 @@ fields:
   label: Page Title
   default: Resource
   hidden: true
-- name: date
+- name: postDate
   type: datetime
   label: Date
   description: ''

@@ -23,7 +23,7 @@
                     </div>
                 </div>
                 <div class="resource-card-content-right">
-                    <h3>{{ date | date }}</h3>
+                    <h3>{{ postDate | date }}</h3>
                     <h2>{{ title }}</h2>
                     <h4>{{ wdefaults.commonWords.by }} {{ author }}</h4>
                     <a href="{{ ctaURL }}" class="resource-link width-50 animate">
@@ -43,7 +43,7 @@
                 </div>
                 <div class="resource-card-content-right">
                     <h3>{{ wdefaults.commonWords.dateTime }}</h3>
-                    {{ date | date("MMMM Do YYYY")}}
+                    {{ postDate | date("MMMM Do YYYY")}}
 
                     <h3>{{ wdefaults.commonWords.location }}</h3>
                     {{ location | safe }}
